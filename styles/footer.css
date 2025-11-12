@@ -1,0 +1,10 @@
+footer{
+    display: flex;
+    justify-content: space-between;
+    padding-block: 25px;
+    font: 14px/150% var(--font-family)
+}
+footer > div{
+    display: flex;
+    gap:16px;
+}
